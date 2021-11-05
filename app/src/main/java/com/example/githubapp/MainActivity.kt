@@ -15,6 +15,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         Log.d(TAG, "onCreate: $TAG")
 
-        toaster(this, "Salomlar")
+        binding.btn.setOnClickListener {
+            toaster(this, "Salomlar")
+        }
     }
 }
