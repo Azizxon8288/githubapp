@@ -17,3 +17,5 @@ allprojects {
 	        implementation 'com.github.Azizxon8288:githubapp:1.0.2'
 	}
   ```
+
+## Plugins
