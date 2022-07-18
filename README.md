@@ -18,4 +18,4 @@ allprojects {
 	}
   ```
 
-## Plugins
+### Plugins
